@@ -59,6 +59,18 @@ C: 1 penge til alle som har området på 3.plass
 ```
 Gjenta til potten er tom.
 
-Spørsmål:
-1. Skal hver spiller fordele 6 (?) penger (fra egen lomme?) i de 8 premiepottene mellom trinn 1 og 2?
-2. Skal premiepotten fra banken økes for hver runde?
+## Idéer:
+1. **Spillerpremie**: Hver spiller fordeler 6 (?) penger (fra egen lomme?) i de 8 premiepottene mellom trinn 1 og 2
+2. **Progressiv premie**: Premiepotten fra banken økes med 1 (?) for hver runde?
+3. **Rundehistorikk**: Skal områdene akkumulere noe for hver runde, slik at de "husker" resultatene for hver runde?
+4. **Oppdrag**: Hver spiller trekker/velger et oppdragskort som gjelder etter siste runde, og som gir en ekstra utbetaling hvis man klarer oppdraget.
+Eksempel på oppdrag:
+    - Område X er på akkumulert sisteplass
+    - Område X er ikke blant topp tre i siste runde
+    - Område X har aldri hvert blant topp tre
+    - Spilleren fikk ingen utbetaling i siste runde
+5. **Bestikkelser**: Legges inn trinn 0.1 der spillerene kan sende svarte konvolutter anonymt til hverandre (krever at hver spiller har en skjult identitet som kun de kjenner til, og en offentlig identitet som de andre kan adressere). Konvolutten skal inneholde den offentlige identiteten til mottakeren (synlig i vinduskonvolutt), den skjulte identiteten til avsenderen (synlig i vindu), et ønske og en pengesum. Eksempler på ønsker kan være "ranger område A over B", "stem blankt". Mottaker kan da velge mellom:
+    - Beholde pengene og utføre ønsket
+    - Returnere konvolutten med hele innholdet
+    - Offentligjøre innholdet
+
