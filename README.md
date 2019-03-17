@@ -73,6 +73,7 @@ Eksempel på oppdrag:
     - Beholde pengene og utføre ønsket
     - Returnere konvolutten med hele innholdet
     - Offentligjøre innholdet
+6. **Balansering**: Metode for å jevne ut forskjellen mellom erfarne og mindre erfarne spillere.
 
 ## Utfordringer:
 - Ved å rangere alle kortene i en bunke er det ikke mulig å sette to områder på samme plass. Dette bør være mulig. Må man i tillegg til områdene ha nummerkort som indikerer plassering?
