@@ -22,7 +22,7 @@ Hver spiller starter med
 Spillet går i 5 runder der hver runde består av følgende trinn
 
 ### 0. Avstemmingsmetode
-Standard: Borda Count. Avansert spill: Den med lavest utbetaling i trinn 4 velger ny avstemmingsmetode.
+Standard: [Borda Count](https://en.wikipedia.org/wiki/Borda_count). Avansert spill: Den med lavest utbetaling i trinn 4 velger ny avstemmingsmetode.
 
 ### 1. Prioritering av satsningsområder
 Første runde: Velg tre av de åtte områdekortene. 
