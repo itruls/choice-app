@@ -74,3 +74,5 @@ Eksempel på oppdrag:
     - Returnere konvolutten med hele innholdet
     - Offentligjøre innholdet
 
+## Utfordringer:
+- Ved å rangere alle kortene i en bunke er det ikke mulig å sette to områder på samme plass. Dette bør være mulig. Må man i tillegg til områdene ha nummerkort som indikerer plassering?
