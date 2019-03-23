@@ -25,13 +25,14 @@ Spillet går i 5 runder der hver runde består av følgende trinn
 Standard: [Borda Count](https://en.wikipedia.org/wiki/Borda_count). Avansert spill: Den med lavest utbetaling i trinn 4 velger ny avstemmingsmetode, f.eks. [Approval Voting](https://en.wikipedia.org/wiki/Approval_voting).
 
 ### 1. Prioritering av satsningsområder
-Første runde: Velg tre av de åtte områdekortene. 
-Legg et åpent på topp. Dette er primærområdet. 
-De to andre kortene legges skjult under som sekundær- og tertiærområde.
+I første runde gjør hver spiller: 
+- Velg fire av de åtte områdekortene. Dette er spillerens satsningsområder.
+- Legg satsningsområdene i rekkefølge på bordet foran seg, primærområdet lengst fra deg.
+- Når alle spillerne har lagt ned kortene snur alle primærområdet.
 
 Resterende runder: Velg en eller ingen av to handlinger:
-- Bytt rekkefølge på to av områdene
-- Bytt ut et av de to skjulte med et av de 5 andre områdene
+- Bytt rekkefølge på to av områdene på bordet
+- Bytt ut et av de skjulte med et av de 4 områdene som ikke er på bordet.
 
 ### 2. Avstemming
 Spillerne rangerer områdene fra topp til bunn i skjul og legger avstemmingen med alle de 8 områdekortene rangert i en hvit konvolutt.
@@ -46,18 +47,19 @@ Avgjør felles rangering ut fra avstemmingsmetode fra trinn 0.
     1. Førsteplass: 3 x antall spillere
     2. Andreplass: 2 x antall spillere
     3. Tredjeplass: 1 x antall spillere
-2. De resterende områder får en penge hver (som ikke blir betalt ut før området en gang rykker opp blant topp tre).
-3. Fordeling av premie: Hver av de tre øverste premiene fordeles slik:
+2. De resterende områder får en penge hver (som ikke blir betalt ut før området er blant topp tre).
+3. De spillerne som ønsker kan nå velge om de vil åpne 2. og/eller 3. plassen sin for å få utbetalt premie. Denne plassen forblir åpen resten av spillet (eller skal det være et trekk å snu en plass).
+4. Fordeling av premie: Hver av de tre øverste premiene fordeles slik:
 ```
 A, A, B, A, A, B, C
 ```
 der
 ```
 A: 1 penge til alle som har området på 1.plass
-B: 1 penge til alle som har området på 2.plass
-C: 1 penge til alle som har området på 3.plass
+B: 1 penge til alle som har området på en åpen 2.plass
+C: 1 penge til alle som har området på en åpen 3.plass
 ```
-Gjenta til potten er tom.
+Gjenta til premien er tom. Hvis man ikke kan fordele ut til alle som har samme plass, så går restpremien videre til neste plassering. 
 
 ## Idéer:
 1. **Spillerpremie**: Hver spiller fordeler 6 (?) penger (fra egen lomme?) i de 8 premiepottene mellom trinn 1 og 2
